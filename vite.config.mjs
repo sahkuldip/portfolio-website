@@ -2,6 +2,6 @@
 import { defineConfig } from 'vite'
 
 export default defineConfig({
-  base: '/portfolio-Website/',
+  base: '/portfolio-website/',
   publicDir: 'public'
 })
